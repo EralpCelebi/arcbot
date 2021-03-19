@@ -1,0 +1,2 @@
+# arcbot
+Bitcoin Trading Bot
